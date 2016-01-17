@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>1|关于我们</item>
+        <item>2|新闻中心</item>
+        <item>3|中天产品</item>
+        <item>4|中天证券</item>
+        <item>5|技术支持</item>
+        <item>6|市场服务</item>
+        <item>7|人才招聘</item>
+        <item>8|在线咨询</item>
+        <item>9|中天家园</item>
+        <item>10|预警平台</item>
+        <item>11|联系我们</item>
+    </string-array>
+</resources>
